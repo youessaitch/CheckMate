@@ -1,10 +1,4 @@
 // Object Orientated Programming in C++
-// Final Project
-// Name: Christopher Robert Kitching
-// Student ID: 10134621
-// E-mail: christopher.kitching@student.manchester.ac.uk
-// Date created: 24/03/20
-// Last edited: 05/05/20
 
 // File: main.cpp
 
